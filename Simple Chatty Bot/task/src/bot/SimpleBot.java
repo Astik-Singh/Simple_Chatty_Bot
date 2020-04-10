@@ -57,7 +57,7 @@ public class SimpleBot {
         }
     }
 
-    private static void end() {
+    private static void end()  {
         System.out.println("Congratulations, have a nice day!");
     }
 }
