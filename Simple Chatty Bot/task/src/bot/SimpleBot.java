@@ -43,7 +43,7 @@ public class SimpleBot {
         }
     }
 
-    private static void test() {
+    private static void test()  {
         System.out.println("Let's test your programming knowledge.");
         System.out.println("Why do we use methods?");
         System.out.println("1. To repeat a statement multiple times.\n" +
