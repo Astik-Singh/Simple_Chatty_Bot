@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SimpleBot {
     private final static Scanner scanner = new Scanner(System.in); // Do not change this line
 
-    public static void main(String[] args) {
+    public static void main(String[] args)  {
         greet("Aid", "2019"); // change it as you need
         remindName();
         guessAge();
